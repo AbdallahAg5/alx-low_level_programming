@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
 * main - Main function
-* Description : Prints types
-* args : no args
+* Prints types
 * Return : always 0
 */
 int main(void)
