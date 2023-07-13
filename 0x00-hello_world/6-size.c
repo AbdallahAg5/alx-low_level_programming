@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main - Main function
-* Prints types
-* Return : always 0
+* main - Entry point of the program
+* Description: Prints the message
+* Return: Always 0 (Success)
 */
 int main(void)
 {
