@@ -1,5 +1,4 @@
-#include<stdio.h>
-
+#include <stdio.h>
 /**
  * main - Main function
  * Description:  prints all possible combinations of single-digit numbers.
