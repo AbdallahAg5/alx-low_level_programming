@@ -10,7 +10,6 @@ int i;
 for (i = 0; i < 28; i++)
 {
 putchar(alp[i]); /* print each char with putchar */
-putchar('\n');
 }
 return (0);
 }
