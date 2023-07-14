@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-char alp[26] = "zyxwvutsrqponmlkjihgfedcba"; /* string with alphabet */
+char alp[26] = "abcdefghijklmnopqrstuvwxyz"; /* string with alphabet */
 int i;
 for (i = 25; i >= 0; i--)
 {
