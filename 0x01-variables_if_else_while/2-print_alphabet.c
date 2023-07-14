@@ -5,9 +5,9 @@
  */
 int main(void)
 {
-char alp[28] = "abcdefghijklmnopqrstuvwxyz"; /* string with alphabet */
+char alp[27] = "abcdefghijklmnopqrstuvwxyz"; /* string with alphabet */
 int i;
-for (i = 0; i < 28; i++)
+for (i = 0; i < 27; i++)
 {
 putchar(alp[i]); /* print each char with putchar */
 }
