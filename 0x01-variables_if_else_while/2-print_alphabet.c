@@ -11,6 +11,7 @@ for (i = 0; i < 27; i++)
 {
 putchar(alp[i]); /* print each char with putchar */
 }
+putchar('\n');
 return (0);
 }
 
